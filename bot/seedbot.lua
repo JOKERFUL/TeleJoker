@@ -225,7 +225,16 @@ function create_config( )
     "all",
     "leave_ban",
     "admin",
-    "Expire"			
+    "Expire",
+    "Joke",
+    "LinkPv",
+    "Me",
+    "MuteAll",
+    "Nerkh",
+    "Ping",
+    "Rank",
+    "Tagall",
+    "Warn"			
     },
     sudo_users = {498475110,tonumber(our_id)},--Sudo users
     disabled_channels = {},
